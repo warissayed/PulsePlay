@@ -1,6 +1,5 @@
-# PulsePlay
-Features User Authentication: Users can create accounts, log in, and manage their profiles. Profile Management: Users can upload and update their avatar and cover image. Video Uploads: Users can upload videos with titles and descriptions. Subscription System: Users can subscribe to channels and receive updates.
-Full Stack YouTube Clone
+
+#Full Stack YouTube Clone
 This project is a full-stack web application inspired by YouTube, designed to enhance my backend development skills and provide a comprehensive learning experience. The platform allows users to create accounts, manage their profiles, and interact with video content.
 
 Features
